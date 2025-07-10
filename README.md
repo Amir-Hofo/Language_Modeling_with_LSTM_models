@@ -5,4 +5,4 @@ Example output:
 Prompt → "I'm not in danger, I am the"  
 Model → "the best of any game."
 
-![LM](https://github.com/user-attachments/assets/6654f230-5e4d-4b7e-92f0-475862bda4d4)
+![LM](https://github.com/user-attachments/assets/2dda6fac-cf45-486e-a2e5-4faf7f9deba7)
